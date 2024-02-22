@@ -1,4 +1,10 @@
 # Regression-Analysis-Using-Steel-Data
+<!-- # ![Figure 1](assets/cnaa.png) -->
+
+<p align="center">
+    <img src="assets/steel.jpg" alt="The image shows steel welding">
+    <br>
+  </p>
 
 The objective of this study is to select a publicly available dataset and conduct some statistical regression analysis in the Python programming language. The author selected the Steel Industry Energy Consumption Dataset [(UCI Machine Learning Repository: Steel Industry Energy Consumption Dataset, 2021)](https://archive.ics.uci.edu/dataset/851/steel+industry+energy+consumption). This dataset contains electricity consumption information collected from DAEWOO Steel Co. Ltd. in Gwangyang, South Korea. The steel facility produces various types of coils, steel plates, and iron plates. Some relevant research publications that have utilized the dataset include [Sathishkumar et al., 2020](http://ktsde.kips.or.kr/full-text/453). 
 
@@ -13,5 +19,5 @@ The goals of this study include:
 - Python code files implementing random forest and support vector classification algorithms.
 - PDF report (**Critical Analysis.pdf**) containing critical analysis of the approach and results covering the mentioned key points.
 
-- Photo by <a href="https://unsplash.com/@karanbhatia9?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Karan Bhatia</a> on <a href="https://unsplash.com/photos/person-grinding-pipe-steel-wool-photography-ib7jwp7m0iA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photo by <a href="https://unsplash.com/@karanbhatia9?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Karan Bhatia</a> on <a href="https://unsplash.com/photos/person-grinding-pipe-steel-wool-photography-ib7jwp7m0iA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
